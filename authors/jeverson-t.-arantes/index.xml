@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeverson T. Arantes on Gabriel R. Schleder</title>
+    <link>https://gschleder.github.io/authors/jeverson-t.-arantes/</link>
+    <description>Recent content in Jeverson T. Arantes on Gabriel R. Schleder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://gschleder.github.io/authors/jeverson-t.-arantes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oxidation of Ni 13 clusters</title>
+      <link>https://gschleder.github.io/publication/schleder-2018/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://gschleder.github.io/publication/schleder-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic covalent bond from first principles: Diarylbibenzofuranone structural, electronic, and oxidation studies</title>
+      <link>https://gschleder.github.io/publication/schleder-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0200</pubDate>
+      
+      <guid>https://gschleder.github.io/publication/schleder-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
