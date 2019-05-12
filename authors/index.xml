@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Gabriel R. Schleder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://gschleder.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,27 +14,45 @@
     <item>
       <title>Adalberto Fazzio</title>
       <link>https://gschleder.github.io/authors/adalberto-fazzio/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0300</pubDate>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
       
       <guid>https://gschleder.github.io/authors/adalberto-fazzio/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gabriel R. Schleder</title>
-      <link>https://gschleder.github.io/authors/gabriel-r.-schleder/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0300</pubDate>
+      <title>Antonio Claudio Michejevs Padilha</title>
+      <link>https://gschleder.github.io/authors/antonio-claudio-michejevs-padilha/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
       
-      <guid>https://gschleder.github.io/authors/gabriel-r.-schleder/</guid>
+      <guid>https://gschleder.github.io/authors/antonio-claudio-michejevs-padilha/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jeverson T. Arantes</title>
-      <link>https://gschleder.github.io/authors/jeverson-t.-arantes/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0300</pubDate>
+      <title>Carlos Mera Acosta</title>
+      <link>https://gschleder.github.io/authors/carlos-mera-acosta/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
       
-      <guid>https://gschleder.github.io/authors/jeverson-t.-arantes/</guid>
+      <guid>https://gschleder.github.io/authors/carlos-mera-acosta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabriel Ravanhani Schleder</title>
+      <link>https://gschleder.github.io/authors/gabriel-ravanhani-schleder/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://gschleder.github.io/authors/gabriel-ravanhani-schleder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcio Costa</title>
+      <link>https://gschleder.github.io/authors/marcio-costa/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://gschleder.github.io/authors/marcio-costa/</guid>
       <description></description>
     </item>
     
@@ -44,6 +62,15 @@
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0300</pubDate>
       
       <guid>https://gschleder.github.io/authors/edson-r.-leite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabriel R. Schleder</title>
+      <link>https://gschleder.github.io/authors/gabriel-r.-schleder/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://gschleder.github.io/authors/gabriel-r.-schleder/</guid>
       <description></description>
     </item>
     
@@ -84,38 +111,11 @@
     </item>
     
     <item>
-      <title>Antonio Claudio Michejevs Padilha</title>
-      <link>https://gschleder.github.io/authors/antonio-claudio-michejevs-padilha/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0200</pubDate>
+      <title>Jeverson T. Arantes</title>
+      <link>https://gschleder.github.io/authors/jeverson-t.-arantes/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0200</pubDate>
       
-      <guid>https://gschleder.github.io/authors/antonio-claudio-michejevs-padilha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carlos Mera Acosta</title>
-      <link>https://gschleder.github.io/authors/carlos-mera-acosta/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0200</pubDate>
-      
-      <guid>https://gschleder.github.io/authors/carlos-mera-acosta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gabriel Ravanhani Schleder</title>
-      <link>https://gschleder.github.io/authors/gabriel-ravanhani-schleder/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0200</pubDate>
-      
-      <guid>https://gschleder.github.io/authors/gabriel-ravanhani-schleder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marcio Costa</title>
-      <link>https://gschleder.github.io/authors/marcio-costa/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0200</pubDate>
-      
-      <guid>https://gschleder.github.io/authors/marcio-costa/</guid>
+      <guid>https://gschleder.github.io/authors/jeverson-t.-arantes/</guid>
       <description></description>
     </item>
     
