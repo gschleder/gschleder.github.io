@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriel R. Schleder</title>
@@ -6,10 +6,37 @@
     <description>Recent content on Gabriel R. Schleder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gschleder.github.io/authors/gabriel-r.-schleder/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ordinary microfluidic electrodes combined with bulk nanoprobe produce multidimensional electric double-layer capacitances towards metal ion recognition</title>
+      <link>https://gschleder.github.io/publication/da-silva-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gschleder.github.io/publication/da-silva-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Two-Dimensional Materials Thermodynamic Stability via Machine Learning</title>
+      <link>https://gschleder.github.io/publication/schleder-2019-ml/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gschleder.github.io/publication/schleder-2019-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Realistic Amorphous Topological Insulators</title>
+      <link>https://gschleder.github.io/publication/costa-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gschleder.github.io/publication/costa-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Decreasing Nanocrystal Structural Disorder by Ligand Exchange: An Experimental and Theoretical Analysis</title>

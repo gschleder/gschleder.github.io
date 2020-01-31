@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriel R. Schleder</title>
@@ -9,15 +9,6 @@
     
 	<atom:link href="https://gschleder.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://gschleder.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gschleder.github.io/authors/admin/</guid>
-      <description>I’m a PhD graduate student at the Universidade Federal do ABC advised by Prof. Adalberto Fazzio, Director of the Brazilian Nanotechnology National Laboratory (LNNano/CNPEM). My research interests are in computational materials science, especially in areas related to condensed matter physics and nanoscience, high-throughput Density Functional Theory (DFT) calculations, and Machine Learning techniques.</description>
-    </item>
     
   </channel>
 </rss>

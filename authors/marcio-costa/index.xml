@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcio Costa on Gabriel R. Schleder</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Marcio Costa on Gabriel R. Schleder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gschleder.github.io/authors/marcio-costa/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Toward Realistic Amorphous Topological Insulators</title>
+      <link>https://gschleder.github.io/publication/costa-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gschleder.github.io/publication/costa-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From DFT to Machine Learning: recent approaches to Materials Science – a review</title>
