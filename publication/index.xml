@@ -1,105 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Publications on Gabriel R. Schleder</title>
-    <link>https://gschleder.github.io/publication/</link>
-    <description>Recent content in Publications on Gabriel R. Schleder</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gschleder.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Ordinary microfluidic electrodes combined with bulk nanoprobe produce multidimensional electric double-layer capacitances towards metal ion recognition</title>
-      <link>https://gschleder.github.io/publication/da-silva-2020/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gschleder.github.io/publication/da-silva-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ab Initio Simulations and Materials Chemistry in the Age of Big Data</title>
-      <link>https://gschleder.github.io/publication/schleder-2019-persp/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://gschleder.github.io/publication/schleder-2019-persp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring Two-Dimensional Materials Thermodynamic Stability via Machine Learning</title>
-      <link>https://gschleder.github.io/publication/schleder-2019-ml/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://gschleder.github.io/publication/schleder-2019-ml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toward Realistic Amorphous Topological Insulators</title>
-      <link>https://gschleder.github.io/publication/costa-2019/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://gschleder.github.io/publication/costa-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From DFT to Machine Learning: recent approaches to Materials Science – a review</title>
-      <link>https://gschleder.github.io/publication/schleder-m-lreview/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
-      
-      <guid>https://gschleder.github.io/publication/schleder-m-lreview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decreasing Nanocrystal Structural Disorder by Ligand Exchange: An Experimental and Theoretical Analysis</title>
-      <link>https://gschleder.github.io/publication/schleder-2019/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0300</pubDate>
-      
-      <guid>https://gschleder.github.io/publication/schleder-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oxidation of Ni 13 clusters</title>
-      <link>https://gschleder.github.io/publication/schleder-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 -0200</pubDate>
-      
-      <guid>https://gschleder.github.io/publication/schleder-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic covalent bond from first principles: Diarylbibenzofuranone structural, electronic, and oxidation studies</title>
-      <link>https://gschleder.github.io/publication/schleder-2017/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 -0200</pubDate>
-      
-      <guid>https://gschleder.github.io/publication/schleder-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adsorption of 3d, 4d, and 5d transition metal atoms on β12—Borophene</title>
-      <link>https://gschleder.github.io/publication/alvarez-quiceno-2017/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 -0300</pubDate>
-      
-      <guid>https://gschleder.github.io/publication/alvarez-quiceno-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bio-based polyurethane prepared from Kraft lignin and modified castor oil</title>
-      <link>https://gschleder.github.io/publication/tavares-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0200</pubDate>
-      
-      <guid>https://gschleder.github.io/publication/tavares-2016/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Gabriel R. Schleder</title><link>https://gschleder.github.io/publication/</link><atom:link href="https://gschleder.github.io/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate><image><url>https://gschleder.github.io/media/icon_hu06348d08fcdb0ca79c56dfd94ab3fdcb_8985_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://gschleder.github.io/publication/</link></image><item><title>An example preprint / working paper</title><link>https://gschleder.github.io/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://gschleder.github.io/publication/preprint/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An example journal article</title><link>https://gschleder.github.io/publication/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://gschleder.github.io/publication/journal-article/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An example conference paper</title><link>https://gschleder.github.io/publication/conference-paper/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://gschleder.github.io/publication/conference-paper/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item></channel></rss>
